@@ -1,37 +1,49 @@
 {
-  "last_updated": "2026-10-20T06:28:42Z",
+  "last_updated": "2026-10-20T06:45:37Z",
   "regions": {
     "PK": {
-      "base_version": 1,
+      "base_version": 2,
       "updates_version": 2,
       "base_file": "catalog_pk_base.csv",
       "updates_file": "catalog_pk_updates.csv",
       "updates_rows": 0,
-      "updates_updated_at": "2026-10-20T06:28:40Z"
+      "updates_updated_at": "2026-10-20T06:28:40Z",
+      "base_rows": 41844,
+      "base_sha256": "676e50e900227b12066311d383a0984e47dbe26e46bc477ae18865aee5e6f78f",
+      "base_updated_at": "2026-10-20T06:45:37Z"
     },
     "GCC": {
-      "base_version": 1,
+      "base_version": 2,
       "updates_version": 2,
       "base_file": "catalog_gcc_base.csv",
       "updates_file": "catalog_gcc_updates.csv",
       "updates_rows": 0,
-      "updates_updated_at": "2026-10-20T06:28:41Z"
+      "updates_updated_at": "2026-10-20T06:28:41Z",
+      "base_rows": 5923,
+      "base_sha256": "13319742089a7f4e8627564d40022382dc3486c3e06a1a0185543d393fa706e8",
+      "base_updated_at": "2026-10-20T06:45:37Z"
     },
     "IN": {
-      "base_version": 1,
+      "base_version": 2,
       "updates_version": 2,
       "base_file": "catalog_in_base.csv",
       "updates_file": "catalog_in_updates.csv",
       "updates_rows": 0,
-      "updates_updated_at": "2026-10-20T06:28:42Z"
+      "updates_updated_at": "2026-10-20T06:28:42Z",
+      "base_rows": 29238,
+      "base_sha256": "c8636063344b74f599e180ecf5f3b1a69a4c36ab928e1ec95cf8e412291f455f",
+      "base_updated_at": "2026-10-20T06:45:37Z"
     },
     "UK_US": {
-      "base_version": 1,
+      "base_version": 2,
       "updates_version": 2,
       "base_file": "catalog_uk_us_base.csv",
       "updates_file": "catalog_uk_us_updates.csv",
       "updates_rows": 0,
-      "updates_updated_at": "2026-10-20T06:28:42Z"
+      "updates_updated_at": "2026-10-20T06:28:42Z",
+      "base_rows": 31347,
+      "base_sha256": "a019573e6e40c33c59b87cd7acc99b9870e6215b978342d29dbb575307090aef",
+      "base_updated_at": "2026-10-20T06:45:37Z"
     }
   }
 }

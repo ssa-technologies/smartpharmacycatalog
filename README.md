@@ -19,6 +19,27 @@ repository, so a new medicine reaches every shop with one tap on **Fetch New Med
 App base URL: `https://raw.githubusercontent.com/ssa-technologies/smartpharmacycatalog/main/`
 (fallback mirror: `https://cdn.jsdelivr.net/gh/ssa-technologies/smartpharmacycatalog@main/`)
 
+## What is in the base catalogs, and where it comes from
+
+The app itself is tiny: it ships only a small starter list. Each shop downloads the base catalog of its own region once.
+Rebuild them with `python scripts/harvest_all_regions.py` (see the header of that script).
+
+| File | Rows | Source |
+|---|---|---|
+| `catalog_pk_base.csv` | about 41,800 | The DRAP-based Pakistan list that used to be bundled in the app (names, companies, pack sizes and prices as shipped) + about 300 Pakistani FMCG, baby milk, diaper, Hamdard and Qarshi items |
+| `catalog_in_base.csv` | about 29,200 | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) (MIT licence), discontinued items removed, the big Indian pharma companies first, + curated OTC and baby items |
+| `catalog_uk_us_base.csv` | about 31,300 | US FDA [openFDA NDC directory](https://open.fda.gov/) (public domain) + curated UK / US OTC brands |
+| `catalog_gcc_base.csv` | about 5,900 | Curated Gulf brands + the generic formulary (INN name, strength, form) seen with two or more labelers in the openFDA data |
+
+Honest limits:
+
+* **No SFDA / MOHAP official list.** Those sites block automated downloads, so the GCC file is *not* an official registered-drug
+  list. If you export the SFDA list yourself, put it into the Google Sheet and the sync adds it.
+* **No UK NHS dm+d.** It needs a free NHS TRUD account to download. The UK part is the curated brand list only.
+* **No invented data.** Prices (`mrp`) and barcodes are only filled where a real source has them; everything else is `0` / empty.
+  The `GCC` (SAR) and `IN` curated brands carry *indicative* prices (see below); the Indian dataset prices are the dataset's own.
+* Barcodes are never guessed: a made-up GTIN would make the POS scanner sell the wrong product.
+
 ## CSV format
 
 First row (header) is exactly:

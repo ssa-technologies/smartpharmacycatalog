@@ -1,0 +1,1145 @@
+[
+{
+"name": "Paracetamol 500mg Tab",
+"company": "",
+"formula": "Paracetamol 500mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": true
+},
+{
+"name": "Paracetamol 500mg Caplets",
+"company": "",
+"formula": "Paracetamol 500mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Paracetamol Oral Suspension 120mg/5ml",
+"company": "",
+"formula": "Paracetamol 120mg/5ml",
+"type": "Syrup",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Calpol Infant Suspension 120mg/5ml",
+"company": "Kenvue",
+"formula": "Paracetamol 120mg/5ml",
+"type": "Syrup",
+"units": 1,
+"strips": 1,
+"popular": true
+},
+{
+"name": "Calpol Six Plus Suspension 250mg/5ml",
+"company": "Kenvue",
+"formula": "Paracetamol 250mg/5ml",
+"type": "Syrup",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Panadol Tab",
+"company": "Haleon",
+"formula": "Paracetamol 500mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Panadol Extra Tab",
+"company": "Haleon",
+"formula": "Paracetamol 500mg + Caffeine 65mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Ibuprofen 200mg Tab",
+"company": "",
+"formula": "Ibuprofen 200mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": true
+},
+{
+"name": "Ibuprofen 400mg Tab",
+"company": "",
+"formula": "Ibuprofen 400mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Nurofen Tablets 200mg",
+"company": "Reckitt",
+"formula": "Ibuprofen 200mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": true
+},
+{
+"name": "Nurofen Express 342mg",
+"company": "Reckitt",
+"formula": "Ibuprofen Sodium Dihydrate",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Nurofen for Children Suspension",
+"company": "Reckitt",
+"formula": "Ibuprofen 100mg/5ml",
+"type": "Syrup",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Co-Codamol 8/500mg Tab",
+"company": "",
+"formula": "Codeine 8mg + Paracetamol 500mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Co-Codamol 30/500mg Tab",
+"company": "",
+"formula": "Codeine 30mg + Paracetamol 500mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Co-Dydramol 10/500mg Tab",
+"company": "",
+"formula": "Dihydrocodeine 10mg + Paracetamol 500mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Aspirin 300mg Dispersible Tab",
+"company": "",
+"formula": "Aspirin 300mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Anadin Extra Tab",
+"company": "Haleon",
+"formula": "Aspirin + Paracetamol + Caffeine",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Lemsip Max Cold & Flu Sachets",
+"company": "Reckitt",
+"formula": "Paracetamol + Phenylephrine",
+"type": "Sachet",
+"units": 1,
+"strips": 1,
+"popular": true
+},
+{
+"name": "Beechams All-in-One Liquid",
+"company": "Haleon",
+"formula": "Paracetamol + Guaifenesin + Phenylephrine",
+"type": "Syrup",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Sudafed Decongestant Tab",
+"company": "Kenvue",
+"formula": "Pseudoephedrine 60mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Strepsils Lozenges",
+"company": "Reckitt",
+"formula": "Amylmetacresol + Dichlorobenzyl Alcohol",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Olbas Oil",
+"company": "Olbas",
+"formula": "Menthol + Eucalyptus Inhalation",
+"type": "Drops",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Gaviscon Advance Liquid",
+"company": "Reckitt",
+"formula": "Sodium Alginate + Potassium Bicarbonate",
+"type": "Syrup",
+"units": 1,
+"strips": 1,
+"popular": true
+},
+{
+"name": "Gaviscon Double Action Liquid",
+"company": "Reckitt",
+"formula": "Sodium Alginate + Sodium Bicarbonate + Calcium Carbonate",
+"type": "Syrup",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Rennie Peppermint Tab",
+"company": "Bayer",
+"formula": "Calcium Carbonate + Magnesium Carbonate",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Imodium Instants",
+"company": "Kenvue",
+"formula": "Loperamide 2mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Dioralyte Sachets",
+"company": "Sanofi",
+"formula": "Oral Rehydration Salts",
+"type": "Sachet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Buscopan IBS Relief 10mg Tab",
+"company": "Sanofi",
+"formula": "Hyoscine Butylbromide 10mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Senokot Tab",
+"company": "Reckitt",
+"formula": "Senna 7.5mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Movicol Sachets",
+"company": "Norgine",
+"formula": "Macrogol 3350",
+"type": "Sachet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Lansoprazole 15mg Cap",
+"company": "",
+"formula": "Lansoprazole 15mg",
+"type": "Capsule",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Lansoprazole 30mg Cap",
+"company": "",
+"formula": "Lansoprazole 30mg",
+"type": "Capsule",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Omeprazole 10mg Cap",
+"company": "",
+"formula": "Omeprazole 10mg",
+"type": "Capsule",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Omeprazole 20mg Cap",
+"company": "",
+"formula": "Omeprazole 20mg",
+"type": "Capsule",
+"units": 1,
+"strips": 1,
+"popular": true
+},
+{
+"name": "Omeprazole 40mg Cap",
+"company": "",
+"formula": "Omeprazole 40mg",
+"type": "Capsule",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Pantoprazole 20mg Tab",
+"company": "",
+"formula": "Pantoprazole 20mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Pantoprazole 40mg Tab",
+"company": "",
+"formula": "Pantoprazole 40mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Loratadine 10mg Tab",
+"company": "",
+"formula": "Loratadine 10mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Cetirizine 10mg Tab",
+"company": "",
+"formula": "Cetirizine 10mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": true
+},
+{
+"name": "Fexofenadine 120mg Tab",
+"company": "",
+"formula": "Fexofenadine 120mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Piriton 4mg Tab",
+"company": "GSK",
+"formula": "Chlorphenamine 4mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Beconase Hayfever Nasal Spray",
+"company": "GSK",
+"formula": "Beclometasone",
+"type": "Drops",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Sudocrem 125g",
+"company": "Teva",
+"formula": "Zinc Oxide Nappy Cream",
+"type": "Cream",
+"units": 1,
+"strips": 1,
+"popular": true
+},
+{
+"name": "Savlon Antiseptic Cream",
+"company": "Karo Healthcare",
+"formula": "Cetrimide + Chlorhexidine",
+"type": "Cream",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Germolene Antiseptic Cream",
+"company": "Bayer",
+"formula": "Antiseptic Cream",
+"type": "Cream",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Bonjela Gel",
+"company": "Reckitt",
+"formula": "Choline Salicylate",
+"type": "Cream",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Canesten Cream 1%",
+"company": "Bayer",
+"formula": "Clotrimazole 1%",
+"type": "Cream",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Hydrocortisone 1% Cream",
+"company": "",
+"formula": "Hydrocortisone 1%",
+"type": "Cream",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Fusidic Acid 2% Cream",
+"company": "",
+"formula": "Fusidic Acid 2%",
+"type": "Cream",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Amoxicillin 250mg Cap",
+"company": "",
+"formula": "Amoxicillin 250mg",
+"type": "Capsule",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Amoxicillin 500mg Cap",
+"company": "",
+"formula": "Amoxicillin 500mg",
+"type": "Capsule",
+"units": 1,
+"strips": 1,
+"popular": true
+},
+{
+"name": "Co-Amoxiclav 500/125mg Tab",
+"company": "",
+"formula": "Amoxicillin 500mg + Clavulanic Acid 125mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Flucloxacillin 500mg Cap",
+"company": "",
+"formula": "Flucloxacillin 500mg",
+"type": "Capsule",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Phenoxymethylpenicillin 250mg Tab",
+"company": "",
+"formula": "Penicillin V 250mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Doxycycline 100mg Cap",
+"company": "",
+"formula": "Doxycycline 100mg",
+"type": "Capsule",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Clarithromycin 500mg Tab",
+"company": "",
+"formula": "Clarithromycin 500mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Metronidazole 400mg Tab",
+"company": "",
+"formula": "Metronidazole 400mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Trimethoprim 200mg Tab",
+"company": "",
+"formula": "Trimethoprim 200mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Nitrofurantoin 50mg Cap",
+"company": "",
+"formula": "Nitrofurantoin 50mg",
+"type": "Capsule",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Prednisolone 5mg Tab",
+"company": "",
+"formula": "Prednisolone 5mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Salbutamol 100mcg Inhaler",
+"company": "",
+"formula": "Salbutamol 100mcg",
+"type": "Inhaler",
+"units": 1,
+"strips": 1,
+"popular": true
+},
+{
+"name": "Ventolin Evohaler 100mcg",
+"company": "GSK",
+"formula": "Salbutamol 100mcg",
+"type": "Inhaler",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Clenil Modulite 100mcg Inhaler",
+"company": "Chiesi",
+"formula": "Beclometasone 100mcg",
+"type": "Inhaler",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Atorvastatin 10mg Tab",
+"company": "",
+"formula": "Atorvastatin 10mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Atorvastatin 20mg Tab",
+"company": "",
+"formula": "Atorvastatin 20mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": true
+},
+{
+"name": "Atorvastatin 40mg Tab",
+"company": "",
+"formula": "Atorvastatin 40mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Simvastatin 20mg Tab",
+"company": "",
+"formula": "Simvastatin 20mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Simvastatin 40mg Tab",
+"company": "",
+"formula": "Simvastatin 40mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Amlodipine 5mg Tab",
+"company": "",
+"formula": "Amlodipine 5mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": true
+},
+{
+"name": "Amlodipine 10mg Tab",
+"company": "",
+"formula": "Amlodipine 10mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Ramipril 2.5mg Cap",
+"company": "",
+"formula": "Ramipril 2.5mg",
+"type": "Capsule",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Ramipril 5mg Cap",
+"company": "",
+"formula": "Ramipril 5mg",
+"type": "Capsule",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Lisinopril 10mg Tab",
+"company": "",
+"formula": "Lisinopril 10mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": true
+},
+{
+"name": "Lisinopril 20mg Tab",
+"company": "",
+"formula": "Lisinopril 20mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Bisoprolol 5mg Tab",
+"company": "",
+"formula": "Bisoprolol 5mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Metformin 500mg Tab",
+"company": "",
+"formula": "Metformin 500mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": true
+},
+{
+"name": "Metformin 850mg Tab",
+"company": "",
+"formula": "Metformin 850mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Gliclazide 80mg Tab",
+"company": "",
+"formula": "Gliclazide 80mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Levothyroxine 50mcg Tab",
+"company": "",
+"formula": "Levothyroxine 50mcg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Levothyroxine 100mcg Tab",
+"company": "",
+"formula": "Levothyroxine 100mcg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": true
+},
+{
+"name": "Sertraline 50mg Tab",
+"company": "",
+"formula": "Sertraline 50mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Citalopram 20mg Tab",
+"company": "",
+"formula": "Citalopram 20mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Naproxen 500mg Tab",
+"company": "",
+"formula": "Naproxen 500mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Diclofenac 50mg Tab",
+"company": "",
+"formula": "Diclofenac 50mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Tramadol 50mg Cap",
+"company": "",
+"formula": "Tramadol 50mg",
+"type": "Capsule",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Tylenol Regular Strength 325mg",
+"company": "Kenvue",
+"formula": "Acetaminophen 325mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": true
+},
+{
+"name": "Tylenol Extra Strength 500mg",
+"company": "Kenvue",
+"formula": "Acetaminophen 500mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": true
+},
+{
+"name": "Tylenol PM Extra Strength",
+"company": "Kenvue",
+"formula": "Acetaminophen + Diphenhydramine",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Advil Ibuprofen 200mg",
+"company": "Haleon",
+"formula": "Ibuprofen 200mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": true
+},
+{
+"name": "Motrin IB 200mg",
+"company": "Kenvue",
+"formula": "Ibuprofen 200mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Aleve Naproxen Sodium 220mg",
+"company": "Bayer",
+"formula": "Naproxen Sodium 220mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": true
+},
+{
+"name": "Excedrin Extra Strength",
+"company": "Haleon",
+"formula": "Acetaminophen + Aspirin + Caffeine",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Bayer Aspirin 325mg",
+"company": "Bayer",
+"formula": "Aspirin 325mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Pepto-Bismol Liquid",
+"company": "Procter & Gamble",
+"formula": "Bismuth Subsalicylate",
+"type": "Syrup",
+"units": 1,
+"strips": 1,
+"popular": true
+},
+{
+"name": "Tums Antacid Chewable",
+"company": "Haleon",
+"formula": "Calcium Carbonate",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Pepcid AC 10mg",
+"company": "Kenvue",
+"formula": "Famotidine 10mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Prilosec OTC 20mg",
+"company": "Procter & Gamble",
+"formula": "Omeprazole 20mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Nexium 24HR 20mg",
+"company": "Haleon",
+"formula": "Esomeprazole 20mg",
+"type": "Capsule",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Imodium A-D Caplets",
+"company": "Kenvue",
+"formula": "Loperamide 2mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Dulcolax Laxative Tab",
+"company": "Sanofi",
+"formula": "Bisacodyl 5mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "MiraLAX Powder",
+"company": "Bayer",
+"formula": "Polyethylene Glycol 3350",
+"type": "Sachet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Colace Stool Softener",
+"company": "Purdue",
+"formula": "Docusate Sodium",
+"type": "Capsule",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Zyrtec 10mg",
+"company": "Kenvue",
+"formula": "Cetirizine 10mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": true
+},
+{
+"name": "Claritin 10mg",
+"company": "Bayer",
+"formula": "Loratadine 10mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": true
+},
+{
+"name": "Allegra 24 Hour 180mg",
+"company": "Sanofi",
+"formula": "Fexofenadine 180mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Benadryl Allergy 25mg",
+"company": "Kenvue",
+"formula": "Diphenhydramine 25mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": true
+},
+{
+"name": "Flonase Allergy Relief Nasal Spray",
+"company": "Haleon",
+"formula": "Fluticasone Propionate",
+"type": "Drops",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Mucinex 12 Hour 600mg",
+"company": "Reckitt",
+"formula": "Guaifenesin 600mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": true
+},
+{
+"name": "Mucinex DM",
+"company": "Reckitt",
+"formula": "Guaifenesin + Dextromethorphan",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Robitussin DM Syrup",
+"company": "Haleon",
+"formula": "Guaifenesin + Dextromethorphan",
+"type": "Syrup",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "DayQuil Cold & Flu",
+"company": "Procter & Gamble",
+"formula": "Acetaminophen + Dextromethorphan + Phenylephrine",
+"type": "Capsule",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "NyQuil Cold & Flu",
+"company": "Procter & Gamble",
+"formula": "Acetaminophen + Dextromethorphan + Doxylamine",
+"type": "Capsule",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Theraflu Powder",
+"company": "Haleon",
+"formula": "Acetaminophen + Pheniramine + Phenylephrine",
+"type": "Sachet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Sudafed PE Congestion",
+"company": "Kenvue",
+"formula": "Phenylephrine 10mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Vicks VapoRub",
+"company": "Procter & Gamble",
+"formula": "Menthol + Camphor + Eucalyptus",
+"type": "Cream",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Neosporin Original Ointment",
+"company": "Kenvue",
+"formula": "Neomycin + Polymyxin B + Bacitracin",
+"type": "Cream",
+"units": 1,
+"strips": 1,
+"popular": true
+},
+{
+"name": "Hydrocortisone 1% Cream (US)",
+"company": "",
+"formula": "Hydrocortisone 1%",
+"type": "Cream",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "ZzzQuil Sleep Aid",
+"company": "Procter & Gamble",
+"formula": "Diphenhydramine",
+"type": "Syrup",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Albuterol HFA Inhaler 90mcg",
+"company": "",
+"formula": "Albuterol Sulfate 90mcg",
+"type": "Inhaler",
+"units": 1,
+"strips": 1,
+"popular": true
+},
+{
+"name": "ProAir HFA Inhaler",
+"company": "Teva",
+"formula": "Albuterol Sulfate 90mcg",
+"type": "Inhaler",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Azithromycin Z-Pak 250mg",
+"company": "Pfizer",
+"formula": "Azithromycin 250mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": true
+},
+{
+"name": "Amoxicillin 875mg Tab",
+"company": "",
+"formula": "Amoxicillin 875mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Lisinopril 10mg Tab (US)",
+"company": "",
+"formula": "Lisinopril 10mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Metformin 1000mg Tab",
+"company": "",
+"formula": "Metformin 1000mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Synthroid 100mcg",
+"company": "AbbVie",
+"formula": "Levothyroxine 100mcg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": true
+},
+{
+"name": "Lipitor 20mg Tab (US)",
+"company": "Pfizer",
+"formula": "Atorvastatin 20mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+},
+{
+"name": "Norvasc 5mg Tab (US)",
+"company": "Pfizer",
+"formula": "Amlodipine 5mg",
+"type": "Tablet",
+"units": 1,
+"strips": 1,
+"popular": false
+}
+]
