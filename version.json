@@ -1,29 +1,37 @@
 {
-  "last_updated": "2026-10-20T04:54:39Z",
+  "last_updated": "2026-10-20T06:28:42Z",
   "regions": {
     "PK": {
       "base_version": 1,
-      "updates_version": 1,
+      "updates_version": 2,
       "base_file": "catalog_pk_base.csv",
-      "updates_file": "catalog_pk_updates.csv"
+      "updates_file": "catalog_pk_updates.csv",
+      "updates_rows": 0,
+      "updates_updated_at": "2026-10-20T06:28:40Z"
     },
     "GCC": {
       "base_version": 1,
-      "updates_version": 1,
+      "updates_version": 2,
       "base_file": "catalog_gcc_base.csv",
-      "updates_file": "catalog_gcc_updates.csv"
+      "updates_file": "catalog_gcc_updates.csv",
+      "updates_rows": 0,
+      "updates_updated_at": "2026-10-20T06:28:41Z"
     },
     "IN": {
       "base_version": 1,
-      "updates_version": 1,
+      "updates_version": 2,
       "base_file": "catalog_in_base.csv",
-      "updates_file": "catalog_in_updates.csv"
+      "updates_file": "catalog_in_updates.csv",
+      "updates_rows": 0,
+      "updates_updated_at": "2026-10-20T06:28:42Z"
     },
     "UK_US": {
       "base_version": 1,
-      "updates_version": 1,
+      "updates_version": 2,
       "base_file": "catalog_uk_us_base.csv",
-      "updates_file": "catalog_uk_us_updates.csv"
+      "updates_file": "catalog_uk_us_updates.csv",
+      "updates_rows": 0,
+      "updates_updated_at": "2026-10-20T06:28:42Z"
     }
   }
 }
