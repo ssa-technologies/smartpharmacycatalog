@@ -16,8 +16,8 @@ repository, so a new medicine reaches every shop with one tap on **Fetch New Med
   custom medicines are never touched.
 * `version.json` tells the app which version is online, so it only downloads when something changed.
 
-App base URL: `https://raw.githubusercontent.com/ssatechs/smartpharmacycatalog/main/`
-(fallback mirror: `https://cdn.jsdelivr.net/gh/ssatechs/smartpharmacycatalog@main/`)
+App base URL: `https://raw.githubusercontent.com/ssa-technologies/smartpharmacycatalog/main/`
+(fallback mirror: `https://cdn.jsdelivr.net/gh/ssa-technologies/smartpharmacycatalog@main/`)
 
 ## CSV format
 
