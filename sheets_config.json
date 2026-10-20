@@ -1,7 +1,7 @@
 {
   "_help": "Paste the Google Sheets 'File > Share > Publish to web > CSV' link of each region's updates sheet between the quotes, then run the 'Sync Google Sheets' workflow (GitHub > Actions > Run workflow). Leave a link empty to skip that region.",
-  "PK_UPDATES_SHEET_CSV_URL": "",
-  "GCC_UPDATES_SHEET_CSV_URL": "",
-  "IN_UPDATES_SHEET_CSV_URL": "",
-  "UK_US_UPDATES_SHEET_CSV_URL": ""
+  "PK_UPDATES_SHEET_CSV_URL": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRnLx11MiTUyGKp21tp7aOCLCWBr6k1YTrESbjD4BmVFpjnm581uqYduMf8F31lcw1WNLG93lSmcBYa/pub?gid=0&single=true&output=csv",
+  "GCC_UPDATES_SHEET_CSV_URL": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRnLx11MiTUyGKp21tp7aOCLCWBr6k1YTrESbjD4BmVFpjnm581uqYduMf8F31lcw1WNLG93lSmcBYa/pub?gid=8132693&single=true&output=csv",
+  "IN_UPDATES_SHEET_CSV_URL": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRnLx11MiTUyGKp21tp7aOCLCWBr6k1YTrESbjD4BmVFpjnm581uqYduMf8F31lcw1WNLG93lSmcBYa/pub?gid=1824632794&single=true&output=csv",
+  "UK_US_UPDATES_SHEET_CSV_URL": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRnLx11MiTUyGKp21tp7aOCLCWBr6k1YTrESbjD4BmVFpjnm581uqYduMf8F31lcw1WNLG93lSmcBYa/pub?gid=1015516932&single=true&output=csv"
 }

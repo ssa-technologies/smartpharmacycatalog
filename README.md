@@ -79,6 +79,13 @@ Phones then see the higher `updates_version` and download the new rows on the ne
 
 Run the same script on your own PC to test a link: `python scripts/sync_sheets.py`.
 
+## The official sheets (already connected)
+
+`sheets_config.json` already holds the four published tabs of the official Google Sheet (PK, GCC, IN, UK_US). The first
+time the workflow runs it copies each tab into `catalog_<region>_updates.csv`, so the sample rows that ship in those
+files are replaced by whatever is in the sheet (a tab with only the header row gives an empty updates file).
+The app also knows these four links: when GitHub is not reachable, **Fetch New Medicines** reads the sheet directly.
+
 ## Changing the base catalog
 
 Edit `catalog_<region>_base.csv`, then raise `base_version` of that region in `version.json` (so phones know to download
