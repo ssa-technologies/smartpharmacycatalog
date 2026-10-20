@@ -1,0 +1,45 @@
+name: Sync Google Sheets
+
+# 1-click update: GitHub > Actions > "Sync Google Sheets" > Run workflow.
+# It also checks the sheets by itself every 6 hours.
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */6 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-google-sheets
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      # Reads sheets_config.json; for every non-empty <REGION>_UPDATES_SHEET_CSV_URL it downloads
+      # the published CSV into catalog_<region>_updates.csv, validates the header row, increments
+      # updates_version and refreshes last_updated in version.json.
+      - name: Pull the published Google Sheets
+        run: python scripts/sync_sheets.py
+
+      - name: Commit and push the changes
+        run: |
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "Nothing changed - no commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add catalog_pk_updates.csv catalog_gcc_updates.csv catalog_in_updates.csv catalog_uk_us_updates.csv version.json
+          git commit -m "chore: sync medicine updates from Google Sheets"
+          git push origin HEAD:main

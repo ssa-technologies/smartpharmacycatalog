@@ -1,0 +1,7 @@
+{
+  "_help": "Paste the Google Sheets 'File > Share > Publish to web > CSV' link of each region's updates sheet between the quotes, then run the 'Sync Google Sheets' workflow (GitHub > Actions > Run workflow). Leave a link empty to skip that region.",
+  "PK_UPDATES_SHEET_CSV_URL": "",
+  "GCC_UPDATES_SHEET_CSV_URL": "",
+  "IN_UPDATES_SHEET_CSV_URL": "",
+  "UK_US_UPDATES_SHEET_CSV_URL": ""
+}

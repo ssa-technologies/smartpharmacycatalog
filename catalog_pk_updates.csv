@@ -1,0 +1,6 @@
+code,name,genericFormula,company,unitType,stripsPerBox,unitsPerBox,mrp,barcode
+PK-U001,Dettol Hand Wash 250ml,Antibacterial Hand Wash,Reckitt,Other,1,1,0,
+PK-U002,Lifebuoy Hand Wash 200ml,Antibacterial Hand Wash,Unilever,Other,1,1,0,
+PK-U003,Colgate Total Toothpaste 75g,Toothpaste / Oral Care,Colgate,Cream,1,1,0,
+PK-U004,Vaseline Lip Therapy 10g,Lip Balm,Unilever,Cream,1,1,0,
+PK-U005,Hamdard Safi Natural Blood Purifier 120ml,Herbal / Unani Blood Purifier Syrup,Hamdard,Syrup,1,1,0,
